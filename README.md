@@ -17,6 +17,7 @@ Entrega 3: Otimização e Validação do Modelo
 Otimização dos hiperparâmetros dos modelos para melhorar a performance.
 Validação cruzada para verificar a robustez do modelo.
 Documentação detalhada do processo de construção e treinamento do modelo.
+
 Ciência de Dados
 Entrega 1: Análise Descritiva dos Dados
 Utilização de técnicas estatísticas básicas para descrever os dados.
@@ -29,6 +30,7 @@ Avaliação da adequação dos modelos estatísticos aos dados.
 Implementação de modelos preditivos utilizando Python.
 Avaliação da performance dos modelos preditivos.
 Comparação entre diferentes abordagens de análise preditiva.
+
 Segurança
 Entrega 1: Análise de Riscos
 Identificação e avaliação dos riscos de segurança para a empresa.
@@ -43,6 +45,7 @@ Identificação dos equipamentos que serão utilizados em cada departamento.
 Entrega 2: Configuração de IP de Todos os Equipamentos
 Definição da classe de rede.
 Definição do padrão de rede para cada departamento.
+
 Modelagem de Dados
 Entrega 1: Modelagem Conceitual
 Criação de um diagrama de entidade-relacionamento (ER) para representar os dados da empresa.
@@ -54,6 +57,7 @@ Documentação das decisões de modelagem e justificativas para as escolhas feit
 Entrega 3: Entregar um Dicionário de Dados
 Apresentação das tabelas do banco de dados.
 Simulação de registros nas tabelas do banco de dados.
+
 Como Contribuir
 Fork o repositório.
 Crie uma nova branch (git checkout -b feature/nova-funcionalidade).
@@ -67,5 +71,5 @@ Contato
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
 Email: contato@techcode.com
-Website: www.techcode.com
+
 Obrigado por visitar o repositório da Tech Code! Esperamos que você encontre os cursos certos para você e aproveite ao máximo nossa plataforma.
